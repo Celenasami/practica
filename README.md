@@ -1,2 +1,3 @@
 # practica
 practicando git
+.txt
